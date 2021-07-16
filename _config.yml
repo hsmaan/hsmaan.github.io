@@ -15,11 +15,10 @@ author: Hassaan Maan
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "index.html"
+  Projects: "projects"
+  Curriculum Vitae: "/assets/doc/hmaan_cv.pdf"
   GitHub: "https://github.com/hsmaan"
-  CV: ""
-  # Curriculum Vitae:
-  # Awards:
-  # Presentations:
     
 # --- Logo --- #
 
