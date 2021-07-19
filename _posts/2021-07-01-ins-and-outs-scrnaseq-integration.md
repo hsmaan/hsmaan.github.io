@@ -5,4 +5,4 @@ subtitle: Hazards one might run into and quick ways to diagnose results
 tags: [scrnaseq, integration]
 ---
 
-## [WIP]
+## [Coming soon]

@@ -17,6 +17,6 @@ My research involves the development and application of machine learning and com
 
 ## Research interests
 
-Using representation learning techniques, I'm working to develop methods for integrating single-cell data from different experiments and sequencing runs. Particularly, I'm working on method development for unsupervised integration, integration of imbalanced datasets, integration across different modalities, and diagnosing the results of these techniques in an unsupervised setting. I also work on applications of single-cell RNA sequencing in pediatric hindbrain cancers.
+Using representation learning techniques, I'm working to develop methods for integrating single-cell data from different experiments and sequencing runs. Particularly, I'm working on method development for unsupervised integration, integration of imbalanced datasets, integration across different modalities, and diagnosing the results of these techniques in an unsupervised setting. I also work on applications of single-cell RNA sequencing in pediatric hindbrain tumors.
 
 # <u>Blog posts</u>:
