@@ -4,11 +4,9 @@ use-site-title: true
 ---
 ![profile-pic](assets/img/website_pic.jpg){:style="float: left;margin-right: 7px;:class="img-responsive"}
 
-Hey there! I'm a first year PhD student in the [Bo Wang Lab](https://wanglab.ml/), Department of Medical Biophysics, at the University of Toronto and The Vector Institute. 
+Hey there! I'm a second year PhD candidate in the [Bo Wang Lab](https://wanglab.ml/), Department of Medical Biophysics, at the University of Toronto and The Vector Institute. I'm also co-supervised by [Kieran Campbell](https://www.camlab.ca/) and [Michael Taylor](https://lab.research.sickkids.ca/taylor/).
 
-I also work with [Michael Taylor](https://lab.research.sickkids.ca/taylor/) and [Kieran Campbell](https://www.camlab.ca/). 
-
-My research involves the development and application of machine learning and computational biology methods in single-cell genomics.
+My research involves the development and application of machine learning and computational biology methods in single-cell genomics, particularly on integrating disparate and multi-modal single-cell datasets.
 
 **Email**: hurmaan99 [at] gmail.com \\
 **GitHub**: [hsmaan](https://github.com/hsmaan) \\
